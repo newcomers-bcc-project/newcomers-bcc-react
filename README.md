@@ -1,2 +1,2 @@
 # newcomers-bcc-react
-newcomers
+newcomers live with netlify
